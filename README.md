@@ -8,7 +8,7 @@ A responsive personal portfolio website built to showcase my frontend learning j
 
 ## Live Demo
 
-Coming soon — this portfolio will be deployed with GitHub Pages.
+[View the live portfolio](https://naitik595.github.io/Personal-Portfolio-Landing-Page/)
 
 ## About the Project
 
@@ -43,7 +43,7 @@ A static educational landing-page project built to practice HTML structure, CSS 
 This portfolio website is my personal space for sharing my work, skills, and learning journey.
 
 - **Technologies:** HTML, CSS
-- **Live Demo:** Coming soon
+- **Live Demo:** [View Live Demo](https://naitik595.github.io/Personal-Portfolio-Landing-Page/)
 - **Repository:** [View Repository](https://github.com/naitik595/Personal-Portfolio-Landing-Page)
 
 ## Technologies Used
