@@ -7,7 +7,6 @@
 
 A responsive personal portfolio built from scratch with **HTML5** and **CSS3**, showcasing my skills, projects, and learning journey as an aspiring full-stack developer.
 
-**🔗 Live Site:** [naitik595.github.io/Personal-Portfolio-Landing-Page](https://naitik595.github.io/Personal-Portfolio-Landing-Page/)
 
 ---
 
